@@ -5,5 +5,5 @@ import "fmt"
 
 func Hi_std() {
 
-	fmt.Println("Привет дорогой")
+	fmt.Println("Привет очень дорогой")
 }
