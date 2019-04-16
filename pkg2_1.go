@@ -4,5 +4,5 @@ package pkg2
 import "fmt"
 
 func Hi_kent() {
-	fmt.Println("Здорово Кент!")
+	fmt.Println("Здорово Пацан!")
 }
